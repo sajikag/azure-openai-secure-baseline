@@ -1,0 +1,10 @@
+# Compiled ARM output
+*.json
+!bicepconfig.json
+
+# Local parameter overrides (real emails, subscription-specific values)
+*.local.bicepparam
+
+# Editor / OS
+.vscode/
+.DS_Store
